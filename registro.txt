@@ -1,0 +1,14 @@
+PS C:\Users\Laptop I5 HP\Desktop\proyecto github\ProyectoDesarrollo2> git log --oneline
+51a9e22 (HEAD -> main, origin/main, origin/HEAD) Merge pull request #5 from widecoflo/Version1
+7a981f4 (origin/Version1, Version1) Merge branch 'Frontend' into Version1
+300faa1 Merge branch 'backend' into Version1
+5d518b3 Merge pull request #4 from widecoflo/Frontend
+0c010b8 Merge pull request #3 from widecoflo/backend
+1c1b3fc (origin/Frontend, Frontend) subiendo  cambios a la rama de Fronted  del proyecto
+6938283 (origin/backend, backend) subiendo  cambios a la rama de Backend del proyecto
+7f4b25e Merge pull request #2 from widecoflo/Base_datos
+36b26a1 (origin/Base_datos, Base_datos) subiendo  cambios a la rama de base de datos
+259c2cf Merge pull request #1 from widecoflo/database
+6274c86 (origin/database) subiendo  cambios a la rama de base de datos
+37d88ce Create README.md
+(END)
